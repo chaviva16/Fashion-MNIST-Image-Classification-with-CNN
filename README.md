@@ -74,6 +74,7 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 ## 🙋‍♀️ Author
 Developed by Chaviva
+
 Feel free to connect on GitHub
 
 
